@@ -1,0 +1,19 @@
+{
+  "git.confirmSync": false,
+  "workbench.statusBar.feedback.visible": false,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "prettier.eslintIntegration": true,
+  "workbench.sideBar.location": "left",
+  "eslint.validate": ["javascript", "javascriptreact"],
+  "eslint.autoFixOnSave": true,
+  "breadcrumbs.enabled": true,
+  "tslint.enable": false,
+  "eslint.enable": true,
+  "eslint.alwaysShowStatus": true,
+  "prettier.singleQuote": true,
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "prettier.disableLanguages": ["js"]
+}
